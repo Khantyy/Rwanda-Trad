@@ -1,7 +1,6 @@
 {
   "buildCommand": "echo 'Static site'",
   "outputDirectory": ".",
-  "framework": "html",
   "rewrites": [
     {
       "source": "/(.*)",
