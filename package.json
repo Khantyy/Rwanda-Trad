@@ -1,0 +1,10 @@
+{
+  "name": "rwanda-trad",
+  "version": "1.0.0",
+  "description": "online store",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
